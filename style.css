@@ -41,3 +41,13 @@ body {
 .skill__value {
   text-align: right;
 }
+
+
+.max3 {
+  font-size: 20px;
+  background: green;
+  color: black;
+  margin-top: 80px;
+  padding: 20px;
+  text-align: center;
+}
